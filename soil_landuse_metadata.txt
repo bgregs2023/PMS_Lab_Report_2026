@@ -1,0 +1,7 @@
+Sample ID	LandUse	SoilpH	Replicate
+ARA1	Arable	7.6	1
+ARA2	Arable	7.4	2
+ARA3	Arable	7.7	3
+WDL1	Woodland	4.9	1
+WDL2	Woodland	4.6	2
+WDL3	Woodland	5.1	3
